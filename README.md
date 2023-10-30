@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berrin</h1>
 <h3 align="center">I am a Mathematics student and passionate about the Backend.</h3>
 
-- Hi, I am working on the **Art Perspectives Website project.**
-
-- 🌱 I’m currently learning **GraphQL**
+💻 Hi, I am working on the **Art Perspectives Website project.**
+🌱 I’m currently learning **GraphQL**
 
 <!-- - 📫 How to reach me **tunahanberrin0@gmail.com**-->
 
