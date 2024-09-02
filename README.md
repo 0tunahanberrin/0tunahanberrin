@@ -4,11 +4,11 @@
 
 </h2>
 
-<!--💻 Hi, I am working on the **Art Perspectives Website project.**-->
+- 💻 Hi, I am working on the **Art Perspectives Website project.
 
 <!--🌱 I’m currently learning **GraphQL**-->
 
-<!-- - 📫 How to reach me **tunahanberrin0@gmail.com**-->
+- 📫 How to reach me **tunahanberrin0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
