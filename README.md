@@ -4,7 +4,7 @@
 
 </h2>
 
-- 💻 Hi, I am working on the **Art Perspectives Website project.
+- 💻 Hi, I am working on the Art **Perspectives Website project.**
 
 <!--🌱 I’m currently learning **GraphQL**-->
 
