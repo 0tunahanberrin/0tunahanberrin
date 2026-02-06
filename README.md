@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Berrin Tunahan  
 
-🎯 **Business Analyst | Mathematics Student**  
+🎯 **Business Analyst | Mathematician**  
 📍 Istanbul, Turkey  
 
 ## 🌐 Connect with Me
