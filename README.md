@@ -11,10 +11,10 @@
 ## 💼 What I Do
 - Business Analysis and Project Management: **SDLC, Agile, Scrum, Kanban, Waterfall**
 - Processes: **Requirements Gathering, Stakeholder Management, Documentation, Prototyping**
-- Platforms & Tools: **Jira, Confluence, Git, GitHub, Postman**
+- Platforms & Tools: **Jira, Confluence, Git, GitHub, Postman, Figma, draw.io**
 - Modeling: **UML, BPMN, State Machine Diagrams, Class Diagrams, ERD, Use Case Diagrams, Wireframes**
 - Databases: **MongoDB, SQL**
-- Programming Languages: **JavaScript, Python, TypeScript**  
+- Programming Languages: **JavaScript, Python**  
 
 
 ## 🚀 BA Projects
